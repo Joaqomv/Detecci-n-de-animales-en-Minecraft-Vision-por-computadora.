@@ -1,6 +1,6 @@
 # Detección y Segmentación de Animales de Minecraft con YOLOv8
 
-Proyecto desarrollado para el Taller de Introducción a Visión por Computadora (Facultad de Ciencias Empresariales, IECI-ICINF, Universidad del Bío-Bío). Consiste en un modelo de segmentación de instancias entrenado con **YOLOv8n-seg** para detectar y segmentar animales del videojuego Minecraft (Cerdo, Gallina, Lobo, Oveja y Vaca) a partir de capturas del juego.
+Proyecto desarrollado para el Taller de Introducción a Visión por Computadora. Consiste en un modelo de segmentación de instancias entrenado con **YOLOv8n-seg** para detectar y segmentar animales del videojuego Minecraft (Cerdo, Gallina, Lobo, Oveja y Vaca) a partir de capturas del juego.
 
 El proyecto incluye:
 - Entrenamiento del modelo sobre un dataset propio anotado en Roboflow (150 épocas, imgsz 640).
