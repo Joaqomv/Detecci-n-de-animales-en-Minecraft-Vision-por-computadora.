@@ -16,7 +16,6 @@ El proyecto incluye:
 ├── ejemplo_inferencia.png     # Imagen de ejemplo con la inferencia realizada
 └── README.md
 ```
-
 ## Librerías necesarias
 
 Para ejecutar el notebook se requieren las siguientes librerías (instalables vía `pip`):
